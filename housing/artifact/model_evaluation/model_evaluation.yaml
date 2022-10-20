@@ -1,0 +1,5 @@
+best_model:
+  model_path: C:\Users\kanakat\PycharmProjects\machine_learning_project\housing\artifact\model_trainer\2022-10-20-12-06-26\trained_model\model.pkl
+history:
+  2022-10-20-12-06-26:
+    model_path: C:\Users\kanakat\PycharmProjects\machine_learning_project\housing\artifact\model_trainer\2022-10-20-12-03-51\trained_model\model.pkl
